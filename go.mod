@@ -1,4 +1,4 @@
-module github.com/jasonodonnell/go-opendota
+module github.com/freemy/go-opendota
 
 go 1.12
 
