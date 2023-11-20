@@ -246,6 +246,8 @@ type MatchPlayer struct {
 	PurchaseWardObserver    int                       `json:"purchase_ward_observer,omitempty"`
 	PurchaseWardSentry      int                       `json:"purchase_ward_sentry,omitempty"`
 	PurchaseGem             int                       `json:"purchase_gem,omitempty"`
+	NetWorth             	int                       `json:"net_worth"`
+	
 }
 
 type MatchTeam struct {
